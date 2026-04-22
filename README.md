@@ -1,2 +1,7 @@
-# demo-dental-belgrano-srl
-Demo web para Dental Belgrano SRL — diseñada por eterlab.
+# Dental Belgrano SRL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
